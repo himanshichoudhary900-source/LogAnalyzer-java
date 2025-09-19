@@ -1,0 +1,5 @@
+Log Analysis Report
+-------------------
+INFO logs   : 3 (saved in info.log)
+WARNING logs: 2 (saved in warning.log)
+ERROR logs  : 2 (saved in error.log)
